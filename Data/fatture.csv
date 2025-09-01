@@ -1,0 +1,4 @@
+NumeroDocumento,Cliente,Valore,Valuta
+F001,ClienteA,1000,CHF
+F002,ClienteB,1500,EUR
+F003,ClienteC,2000,USD
