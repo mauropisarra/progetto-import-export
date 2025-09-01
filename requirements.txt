@@ -3,3 +3,4 @@ pandas
 openpyxl
 sqlite3-binary
 matplotlib
+streamlit-option-menu
